@@ -1,5 +1,5 @@
 # Анализ рынка недвижимости в г. Санкт-Петербург
-[HTML](https://github.com/KotyaKatina/Portfolio/blob/main/Real%20Estate%20Market/real_estate.html)    [ipynb](https://github.com/KotyaKatina/Portfolio/blob/main/Real%20Estate%20Market/real_estate.ipynb)
+[ipynb](https://github.com/KotyaKatina/Portfolio/blob/main/Real%20Estate%20Market/real_estate.ipynb)
 
 ## Задача проекта
 Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир.
