@@ -1,5 +1,5 @@
 # Анализ и сегментация клиентов банка
-[ipynb](https://github.com/KotyaKatina/Portfolio/blob/main/Real%20Estate%20Market/)
+[ipynb](https://github.com/KotyaKatina/Portfolio/blob/main/bank/bank.ipynb)
 
 ## Задача проекта
 Проанализировать клиентов регионального банка и сегментировать пользователей по количеству потребляемых продуктов, обращая особое внимание на отток. 
